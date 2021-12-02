@@ -1,0 +1,12 @@
+target/
+.idea
+*.iml
+*.ipr
+*.iws
+.bsp
+*.DS_STORE
+
+project/.boot/
+project/.sbtboot/
+project/.ivy/
+project/.coursier/
